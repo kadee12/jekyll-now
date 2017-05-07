@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:kadira.eads@eadshome.net)
+[kadira.eads@eadshome.net](mailto:kadira.eads@eadshome.net)
